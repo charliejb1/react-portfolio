@@ -178,3 +178,8 @@ img {
   margin-bottom: 10px;
 
 }
+
+#resume-points{
+  list-style-type: circle;
+  text-align: left;
+}
