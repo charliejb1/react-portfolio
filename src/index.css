@@ -73,7 +73,7 @@ img {
   box-shadow: 1px 10px 20px rgb(0, 0, 0);
   border-radius: 100px;
   margin-left: 10px;
-  width: 180px;
+  width: 140px;
   margin-bottom: 10px;
 }
 
@@ -174,10 +174,25 @@ img {
 #linkedin{
   border-radius: 100px;
   margin-left: 540px;
-  width: 180px;
+  width: 80px;
   margin-bottom: 10px;
-
+  margin-left: 20px;
 }
+
+#github{
+  border-radius: 100px;
+  margin-left: 540px;
+  width: 80px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+
+#container-2{
+  display: flex;
+  position: relative;
+  left: 530px
+}
+
 
 #resume-points{
   list-style-type: circle;

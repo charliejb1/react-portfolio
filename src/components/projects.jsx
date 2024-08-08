@@ -6,7 +6,7 @@ function Projects() {
   return (
     <>
      <h2>Projects</h2>
-     
+     {/*container for all projects */}
       <section id="container">
 
         <div id="Project-1">
