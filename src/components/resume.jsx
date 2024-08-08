@@ -19,10 +19,8 @@ function Resume() {
            <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit similique rem adipisci quas maxime qui provident magnam autem beatae sint nihil illo ad neque corrupti, nemo, vitae saepe temporibus praesentium!</li>
          </ul>
        </div>
-      
        <div>
-
-          
+ 
       <a 
             href="src/components/resume.jsx" 
             download="MyResume.pdf"
