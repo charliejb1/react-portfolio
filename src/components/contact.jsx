@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 function Contact() {
-    const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0)
   // contact info with linkedin and github links
   return (
     <div>
@@ -10,7 +10,7 @@ function Contact() {
         Email: charlieboyle252@gmail.com
       </h4>
       <h4>Linkedin and Github:</h4>
-      <section id = 'container-2'>
+      <section id='container-2'>
         <div>
           <a href="https://www.linkedin.com/in/charles-boyle-37a770243/">
             <img id='linkedin'
