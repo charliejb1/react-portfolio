@@ -9,10 +9,10 @@ function App() {
   return (
     <div>
       <header>
-        <div id='icon'>
+        <div id='profile-icon'>
           <a href="https://www.linkedin.com/in/charles-boyle-37a770243/">
             <img
-              src="https://media.licdn.com/dms/image/v2/D5603AQFrO3w30vYwuQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1666760663116?e=1743638400&v=beta&t=VvwudPJMMIC-aUK4gbHey-rtQ4LXPa8V9783YNdAlJU"
+              src="https://media.licdn.com/dms/image/v2/D5603AQFrO3w30vYwuQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1666760663116?e=1750896000&v=beta&t=XCn9HEZoB69f-pbDsgS_oBma-zCOMWYm0O-v9RKlW5w"
               alt="Picture of Charles Boyle in suit and tie"
             />
           </a>
@@ -22,7 +22,7 @@ function App() {
 
           <ul>
             <li><Link to="/">Projects</Link></li>
-            <li><Link to="/about">AboutMe</Link></li>
+            <li><Link to="/about">About Me</Link></li>
             <li><Link to="/resume">Resume</Link></li>
             <li><Link to="/contact">Contact</Link></li>
 

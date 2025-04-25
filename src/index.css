@@ -2,17 +2,22 @@ body{
   background-image: url(data:image/jpeg;base64,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);
   background-size: cover;
 }
-#icon{
+#profile-icon{
   position: relative;
   right: 560px;
+  
 }
 
+p {
+  font-family: electrolize;
+}
 
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
   display: flex;
   margin-top: 5px;
+  font-family: electrolize;
 }
 
 h2 {
@@ -21,6 +26,7 @@ h2 {
   line-break: strict;
   background-color: rgb(248, 248, 248);
   border-radius: 100px;
+  font-family: electrolize;
 
 }
 
@@ -29,6 +35,11 @@ h3{
   border-radius: 100px;
   width: 400px;
   margin-left: 47px;
+  font-family: electrolize;
+}
+
+h4{
+  font-family: electrolize;
 }
 
 header {
@@ -85,6 +96,7 @@ img {
   margin-left: 10px;
   width: 140px;
   margin-bottom: 10px;
+  background-color: aliceblue;
 }
 
 #Project-1 {
@@ -101,7 +113,7 @@ img {
   color: rgb(64, 84, 119);
   background-color: rgb(248, 248, 248);
   border-radius: 100px;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family: electrolize;
 }
 
 
@@ -121,7 +133,7 @@ img {
   color: rgb(64, 84, 119);
   background-color: rgb(248, 248, 248);
   border-radius: 100px;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family: electrolize;
 }
 
 #Project-3 {
@@ -139,7 +151,7 @@ img {
   color: rgb(64, 84, 119);
   background-color: rgb(248, 248, 248);
   border-radius: 100px;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family: electrolize;
 }
 
 #Project-4 {
@@ -157,19 +169,32 @@ img {
   color: rgb(64, 84, 119);
   background-color: rgb(248, 248, 248);
   border-radius: 100px;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  font-family: electrolize;
 }
 
 #Project-5 {
+  color: aliceblue;
   border: solid 2px black;
   background-color: white;
   border-radius: 20px;
-  background-image: url(whitepaper.jpg);
+  background-image: url(stage.avif);
   background-size: cover;
   width: 500px;
   margin-bottom: 20px;
+}
+#perform-together{
+  color:black
+}
+
+#perform-p {
+  color: black;
+  background-color: rgb(248, 248, 248);
+  border-radius: 10px;
+  font-family: electrolize;
 
 }
+
+
 #Project-6 {
   border: solid 2px black;
   background-color: white;
@@ -207,4 +232,5 @@ img {
 #resume-points{
   list-style-type: circle;
   text-align: left;
+  font-family: electrolize;
 }
