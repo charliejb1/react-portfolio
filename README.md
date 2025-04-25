@@ -30,6 +30,10 @@ Install button for readme does not properly function and I did not yet add a foo
 ![Screenshot 2024-08-07 at 11 31 05 PM](https://github.com/user-attachments/assets/df6b7078-4873-436f-9f3e-49f3dfc93872)
 ![Screenshot 2024-08-07 at 11 31 19 PM](https://github.com/user-attachments/assets/0594cb22-9fd1-41bd-a421-f1177e553678)
 
+## Sources
+
+Adding Google Fonts: https://www.youtube.com/watch?v=2Bm3xej0lYQ
+
 
  ## Questions?
 
