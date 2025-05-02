@@ -17,12 +17,11 @@ function App() {
             />
           </a>
         </div>
-        <h1>Charles Boyle</h1>
+        <h1 id="charles-boyle">Charles Boyle</h1>
         <nav>
 
           <ul>
             <li><Link to="/">Projects</Link></li>
-            <li><Link to="/about">About Me</Link></li>
             <li><Link to="/resume">Resume</Link></li>
             <li><Link to="/contact">Contact</Link></li>
 

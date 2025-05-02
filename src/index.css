@@ -1,11 +1,12 @@
-body{
+body {
   background-image: url(data:image/jpeg;base64,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);
   background-size: cover;
 }
-#profile-icon{
+
+#profile-icon {
   position: relative;
   right: 560px;
-  
+
 }
 
 p {
@@ -30,7 +31,7 @@ h2 {
 
 }
 
-h3{
+h3 {
   background-color: rgb(248, 248, 248);
   border-radius: 100px;
   width: 400px;
@@ -38,7 +39,7 @@ h3{
   font-family: electrolize;
 }
 
-h4{
+h4 {
   font-family: electrolize;
 }
 
@@ -69,7 +70,7 @@ nav ul li a {
   color: black;
 }
 
-#container-top{
+#container-top {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -77,6 +78,27 @@ nav ul li a {
   column-gap: 20px;
   row-gap: 10px;
   margin-left: 125px;
+}
+
+#my-project-1 {
+  color: aliceblue;
+  border: solid 2px black;
+  background-color: white;
+  border-radius: 20px;
+  background-image: url(stage.avif);
+  background-size: cover;
+  width: 500px;
+  margin-bottom: 20px;
+}
+
+#my-project-2 {
+  border: solid 2px black;
+  background-color: white;
+  border-radius: 20px;
+  background-image: url(whitepaper.jpg);
+  background-size: cover;
+  width: 500px;
+  margin-bottom: 20px;
 }
 
 #container {
@@ -172,18 +194,8 @@ img {
   font-family: electrolize;
 }
 
-#Project-5 {
-  color: aliceblue;
-  border: solid 2px black;
-  background-color: white;
-  border-radius: 20px;
-  background-image: url(stage.avif);
-  background-size: cover;
-  width: 500px;
-  margin-bottom: 20px;
-}
-#perform-together{
-  color:black
+#my-project-1-header {
+  color: black
 }
 
 #perform-p {
@@ -195,18 +207,113 @@ img {
 }
 
 
-#Project-6 {
-  border: solid 2px black;
+#resume-click {
   background-color: white;
   border-radius: 20px;
-  background-image: url(whitepaper.jpg);
-  background-size: cover;
-  width: 500px;
-  margin-bottom: 20px;
+  display: block;
+  margin-left: 590px;
+  width: 100px;
+  font-family: electrolize;
 
 }
 
-#linkedin{
+#summary-header {
+  text-align: left;
+  font-family: electrolize;
+  margin-left: 0px;
+  background-color: transparent;
+  font-size: x-large;
+
+}
+
+#summary-text {
+  text-align: left;
+  margin-left: 35px;
+}
+
+h4 {
+  text-align: left;
+}
+
+#work-experience {
+  text-align: left;
+  font-family: electrolize;
+  margin-left: 0px;
+  background-color: transparent;
+  font-size: x-large;
+}
+
+#job-1 {
+  font-size: large;
+}
+
+#job-2 {
+  font-size: large;
+}
+
+#job-1-list {
+  text-align: left;
+  font-family: electrolize;
+}
+
+#job-2-list {
+  text-align: left;
+  font-family: electrolize;
+}
+
+#education {
+  text-align: left;
+  font-family: electrolize;
+  margin-left: 0px;
+  background-color: transparent;
+  font-size: x-large;
+}
+
+#university {
+  font-size: large;
+}
+
+#education-list {
+  text-align: left;
+  font-family: electrolize;
+
+}
+
+#certifications {
+  text-align: left;
+  font-family: electrolize;
+  margin-left: 0px;
+  background-color: transparent;
+  font-size: x-large;
+}
+
+#bootcamp {
+  font-size: large;
+}
+
+#certificate-list {
+  text-align: left;
+  font-family: electrolize;
+}
+
+#portfolio-websites {
+  text-align: left;
+  font-family: electrolize;
+  margin-left: 0px;
+  background-color: transparent;
+  font-size: x-large;
+}
+
+#resume-links {
+  text-align: left;
+  font-family: electrolize;
+}
+
+li {
+  margin-left: 0px;
+}
+
+#linkedin {
   border-radius: 100px;
   margin-left: 540px;
   width: 80px;
@@ -214,7 +321,7 @@ img {
   margin-left: 20px;
 }
 
-#github{
+#github {
   border-radius: 100px;
   margin-left: 540px;
   width: 80px;
@@ -222,15 +329,367 @@ img {
   margin-left: 20px;
 }
 
-#container-2{
+#container-2 {
   display: flex;
   position: relative;
   left: 530px
 }
 
 
-#resume-points{
+#resume-points {
   list-style-type: circle;
   text-align: left;
   font-family: electrolize;
 }
+
+
+@media all and (max-width: 1260px) {
+  #profile-icon {
+    margin-left: 150px;
+  }
+}
+
+@media all and (max-width: 1100px) {
+  #profile-icon {
+    margin-left: 300px;
+  }
+}
+
+@media all and (max-width: 970px) {
+  #profile-icon {
+    margin-left: 400px;
+  }
+}
+
+@media all and (max-width: 870px) {
+  #profile-icon {
+    margin-left: 500px;
+  }
+}
+
+@media all and (max-width: 770px) {
+  #profile-icon {
+    margin-left: 550px;
+  }
+}
+
+@media all and (max-width: 670px) {
+  #profile-icon {
+    margin-left: 550px;
+  }
+}
+
+@media all and (max-width: 570px) {
+  #profile-icon {
+    margin-left: 720px;
+  }
+
+  #charles-boyle {
+    margin-left: 80px;
+  }
+
+  nav {
+    margin-left: 80px;
+  }
+}
+
+
+
+@media all and (max-width: 470px) {
+  #profile-icon {
+    margin-left: 640px;
+  }
+}
+
+@media all and (max-width: 370px) {
+  #profile-icon {
+    margin-left: 615px;
+  }
+}
+
+
+
+@media all and (max-width: 1232px) {
+  #container-top {
+    margin-left: 60px;
+  }
+
+  #container {
+    margin-left: 60px;
+  }
+}
+
+@media all and (max-width: 1200px) {
+  #container-top {
+    margin-left: 20px;
+  }
+
+  #container {
+    margin-left: 20px;
+  }
+}
+
+@media all and (max-width: 1130px) {
+  #container-top {
+    margin-left: 10px;
+  }
+
+  #container {
+    margin-left: 10px;
+  }
+}
+
+@media all and (max-width: 1117px) {
+  #container-top {
+    margin-left: 0px;
+  }
+
+  #container {
+    margin-left: 0px;
+  }
+}
+
+@media all and (max-width: 1117px) {
+  #container-top {
+    margin-left: 260px;
+  }
+
+  #container {
+    margin-left: 260px;
+  }
+}
+
+@media all and (max-width: 1090px) {
+  #container-top {
+    margin-left: 240px;
+  }
+
+  #container {
+    margin-left: 240px;
+  }
+}
+
+@media all and (max-width: 1020px) {
+  #container-top {
+    margin-left: 220px;
+  }
+
+  #container {
+    margin-left: 220px;
+  }
+}
+
+@media all and (max-width: 1000px) {
+  #container-top {
+    margin-left: 200px;
+  }
+
+  #container {
+    margin-left: 200px;
+  }
+}
+
+@media all and (max-width: 960px) {
+  #container-top {
+    margin-left: 190px;
+  }
+
+  #container {
+    margin-left: 190px;
+  }
+}
+
+@media all and (max-width: 930px) {
+  #container-top {
+    margin-left: 170px;
+  }
+
+  #container {
+    margin-left: 170px;
+  }
+}
+
+@media all and (max-width: 885px) {
+  #container-top {
+    margin-left: 150px;
+  }
+
+  #container {
+    margin-left: 150px;
+  }
+}
+
+@media all and (max-width: 855px) {
+  #container-top {
+    margin-left: 130px;
+  }
+
+  #container {
+    margin-left: 130px;
+  }
+}
+
+@media all and (max-width: 810px) {
+  #container-top {
+    margin-left: 110px;
+  }
+
+  #container {
+    margin-left: 110px;
+  }
+}
+
+@media all and (max-width: 780px) {
+  #container-top {
+    margin-left: 90px;
+  }
+
+  #container {
+    margin-left: 90px;
+  }
+}
+
+@media all and (max-width: 730px) {
+  #container-top {
+    margin-left: 70px;
+  }
+
+  #container {
+    margin-left: 70px;
+  }
+}
+
+@media all and (max-width: 700px) {
+  #container-top {
+    margin-left: 50px;
+  }
+
+  #container {
+    margin-left: 50px;
+  }
+}
+
+@media all and (max-width: 660px) {
+  #container-top {
+    margin-left: 40px;
+  }
+
+  #container {
+    margin-left: 40px;
+  }
+}
+
+@media all and (max-width: 620px) {
+  #container-top {
+    margin-left: 15px;
+  }
+
+  #container {
+    margin-left: 15px;
+  }
+}
+
+
+@media all and (max-width: 530px) {
+  #container-top {
+    margin-left: 5px;
+  }
+
+  #container {
+    margin-left: 5px;
+  }
+}
+
+@media all and (max-width: 482px) {
+  #container-top {
+    margin-left: -20px;
+  }
+
+  #container {
+    margin-left: 0px;
+
+  }
+
+  #my-project-2-header {
+    margin-left: 0px
+  }
+
+  #third-party-weather {
+
+  }
+
+  #node-readme {
+
+  }
+
+  #node-logo {
+
+  }
+
+  #employee-tracker {
+
+  }
+
+  
+
+
+}
+
+
+/* Headers for divs at small screen size */
+
+@media all and (max-width: 575px) {
+
+  #my-project-1-header {
+    margin-left: 45px
+  }
+  #my-project-2-header {
+    margin-left: 45px
+  }
+
+}
+
+
+@media all and (max-width: 560px) {
+
+  #my-project-1-header {
+    margin-left: 35px
+  }
+  #my-project-2-header {
+    margin-left: 35px
+  }
+
+}
+
+
+@media all and (max-width: 550px) {
+
+  #my-project-1-header {
+    margin-left: 30px
+  }
+  #my-project-2-header {
+    margin-left: 30px
+  }
+
+}
+
+@media all and (max-width: 540px) {
+
+  #my-project-1-header {
+    margin-left: 25px
+  }
+  #my-project-2-header {
+    margin-left: 25px
+  }
+}
+
+@media all and (max-width: 520px) {
+
+  #my-project-1-header {
+    margin-left: 17px
+  }
+  #my-project-2-header {
+    margin-left: 17px
+  }
+}
+
