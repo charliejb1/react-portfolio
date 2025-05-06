@@ -42,7 +42,6 @@ function Resume() {
           <h3 id="certifications">Certifications</h3>
           <h4 id="bootcamp">Northwestern Full Stack Software Development Boot Camp (Feb 2024 - Aug 2024) </h4>
           <ul id="certificate-list">
-            <li>Northwestern Full Stack Software Development Boot Camp (Feb 2024 to August 2024)</li>
             <li>6 month bootcamp focused on skill development of HTML, CSS, Javascript, Object-oriented programming, API's, Node.js, Express.js, React.js, PostgreSQL, MongoDB, Model View Controller architecture, and Object Relational Mapping</li>
             <li>Assembled applications using the fundamentals of HTML, CSS and Javascript for simple front-end development skill building.</li>
             <li>Created and developed applications with node.js for writing files to a server and for interaction between a client and a simple database.</li>

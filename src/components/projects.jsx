@@ -5,7 +5,7 @@ function Projects() {
 
   return (
     <>
-      <h2>My Projects</h2>
+      <h2 id="my-projects">My Projects</h2>
       {/*container for all projects */}
       <section id="container-top">
 
@@ -41,7 +41,7 @@ function Projects() {
       </section>
 
 
-      <h2>Bootcamp Projects</h2>
+      <h2 id="bootcamp-projects">Bootcamp Projects</h2>
 
       <section id="container">
 
