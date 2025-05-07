@@ -4,13 +4,17 @@ function Contact() {
   const [count, setCount] = useState(0)
   // contact info with linkedin and github links
   return (
-    <div>
+    <>
+    
       <h2>Contact</h2>
+      <div id="contact-info">
       <h4>
         Email: charlieboyle252@gmail.com
       </h4>
-      <h4>Linkedin and Github:</h4>
-      <section id='container-2'>
+      <h4 id="icon-names">Linkedin and Github:</h4>
+    </div>
+      <div></div>
+      <section id='contact-icons'>
         <div>
           <a href="https://www.linkedin.com/in/charles-boyle-37a770243/">
             <img id='linkedin'
@@ -28,7 +32,9 @@ function Contact() {
           </a>
         </div>
       </section>
-    </div>
+  
+
+      </>
   )
 }
 

@@ -5,10 +5,7 @@ react-portfolio
  ## Description: 
 
 This is my portfolio project to demostrate all of the projects I would like to show employers. In this project, I used multiple component files as different pages of my online portfolio. Each page (such as projects) is imported to main.jsx to ultimately be dispalyed on the webpage. The app.jsx file also defines routes for each page to be called upon. This file also acts as main header to have other pages dispalyed below it. The portfolio contains a pojects, aboutme, contact, and resume page.
-The projects page has clickable images that either reroute the user to the github repository of that particular project, or to a project webpage draft. 
-
-Unable to accomplish:
-Install button for readme does not properly function and I did not yet add a footer.
+The projects page has clickable images that reroute the user to the github repository of that particular project. 
 
  ## Installation: 
 
@@ -33,6 +30,12 @@ Install button for readme does not properly function and I did not yet add a foo
 ## Sources
 
 Adding Google Fonts: https://www.youtube.com/watch?v=2Bm3xej0lYQ
+
+For making resume a clickable pdf: https://stackoverflow.com/questions/48572896/react-how-to-open-pdf-file-as-a-href-target-blank
+
+For making "resume-click" moveable on screen (display block): https://stackoverflow.com/questions/16952136/width-and-height-not-working-on-a-tags
+
+For background color of resume headers to be transparent: https://stackoverflow.com/questions/8739665/is-background-colornone-valid-css
 
 
  ## Questions?

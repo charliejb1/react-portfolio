@@ -305,6 +305,17 @@ li {
   margin-left: 0px;
 }
 
+#contact-info{
+ display: flex;
+ justify-content: center;
+ 
+}
+
+#icon-names{
+  margin-left: 10px;
+}
+
+
 #linkedin {
   border-radius: 100px;
   margin-left: 540px;
@@ -321,7 +332,7 @@ li {
   margin-left: 20px;
 }
 
-#container-2 {
+#contact-icons {
   display: flex;
   position: relative;
   left: 530px
@@ -346,12 +357,20 @@ li {
   #resume-click {
     margin-left: 560px;
   }
+
+  #contact-icons{
+    left: 510px;
+  }
 }
 
 @media all and (max-width: 1290px) {
 
   #resume-click {
     margin-left: 550px;
+  }
+
+  #contact-icons{
+    left: 500px;
   }
 }
 
@@ -362,6 +381,10 @@ li {
   #resume-click {
     margin-left: 540px;
   }
+
+  #contact-icons{
+    left: 490px;
+  }
 }
 
 @media all and (max-width: 1240px) {
@@ -370,6 +393,9 @@ li {
   }
   #resume-click {
     margin-left: 530px;
+  }
+  #contact-icons{
+    left: 480px;
   }
 }
 
@@ -380,6 +406,9 @@ li {
   #resume-click {
     margin-left: 510px;
   }
+  #contact-icons{
+    left: 470px;
+  }
 }
 
 @media all and (max-width: 1200px) {
@@ -388,6 +417,9 @@ li {
   }
   #resume-click {
     margin-left: 510px;
+  }
+  #contact-icons{
+    left: 460px;
   }
 }
 
@@ -398,6 +430,9 @@ li {
   #resume-click {
     margin-left: 490px;
   }
+  #contact-icons{
+    left: 440px;
+  }
 }
 
 @media all and (max-width: 1160px) {
@@ -406,6 +441,9 @@ li {
   }
   #resume-click {
     margin-left: 480px;
+  }
+  #contact-icons{
+    left: 430px;
   }
 }
 
@@ -416,6 +454,9 @@ li {
   #resume-click {
     margin-left: 470px;
   }
+  #contact-icons{
+    left: 420px;
+  }
 }
 
 @media all and (max-width: 1120px) {
@@ -425,12 +466,18 @@ li {
   #resume-click {
     margin-left: 460px;
   }
+  #contact-icons{
+    left: 410px;
+  }
 }
 
 
 @media all and (max-width: 1100px) {
   #profile-icon {
     margin-left: 300px;
+  }
+  #contact-icons{
+    left: 400px;
   }
 
 }
@@ -441,12 +488,20 @@ li {
     margin-left: 440px;
   }
 
+  #contact-icons{
+    left: 390px;
+  }
+
 }
 
 @media all and (max-width: 1060px) {
  
   #resume-click {
     margin-left: 430px;
+  }
+
+  #contact-icons{
+    left: 380px;
   }
 
 }
@@ -457,6 +512,10 @@ li {
     margin-left: 420px;
   }
 
+  #contact-icons{
+    left: 370px;
+  }
+
 }
 
 @media all and (max-width: 1020px) {
@@ -465,12 +524,20 @@ li {
     margin-left: 410px;
   }
 
+  #contact-icons{
+    left: 360px;
+  }
+
 }
 
 @media all and (max-width: 1000px) {
 
   #resume-click {
     margin-left: 400px;
+  }
+
+  #contact-icons{
+    left: 350px;
   }
 
 }
@@ -484,12 +551,20 @@ li {
     margin-left: 390px;
   }
 
+  #contact-icons{
+    left: 340px;
+  }
+
 }
 
 @media all and (max-width: 940px) {
 
   #resume-click {
     margin-left: 380px;
+  }
+
+  #contact-icons{
+    left: 320px;
   }
 
 }
@@ -500,12 +575,20 @@ li {
     margin-left: 370px;
   }
 
+  #contact-icons{
+    left: 310px;
+  }
+
 }
 
 @media all and (max-width: 900px) {
 
   #resume-click {
     margin-left: 360px;
+  }
+
+  #contact-icons{
+    left: 295px;
   }
 
 }
@@ -519,12 +602,20 @@ li {
     margin-left: 340px;
   }
 
+  #contact-icons{
+    left: 280px;
+  }
+
 }
 
 @media all and (max-width: 840px) {
 
   #resume-click {
     margin-left: 330px;
+  }
+
+  #contact-icons{
+    left: 270px;
   }
 
 }
@@ -534,12 +625,20 @@ li {
   #resume-click {
     margin-left: 320px;
   }
+
+  #contact-icons{
+    left: 260px;
+  }
 }
 
 @media all and (max-width: 800px) {
 
   #resume-click {
     margin-left: 310px;
+  }
+
+  #contact-icons{
+    left: 250px;
   }
 }
 
@@ -551,6 +650,10 @@ li {
   #resume-click {
     margin-left: 290px;
   }
+
+  #contact-icons{
+    left: 230px;
+  }
 }
 
 @media all and (max-width: 740px) {
@@ -558,6 +661,10 @@ li {
 
   #resume-click {
     margin-left: 270px;
+  }
+
+  #contact-icons{
+    left: 215px;
   }
 }
 
@@ -567,6 +674,10 @@ li {
   #resume-click {
     margin-left: 250px;
   }
+
+  #contact-icons{
+    left: 200px;
+  }
 }
 
 @media all and (max-width: 670px) {
@@ -574,12 +685,18 @@ li {
   #resume-click {
     margin-left: 240px;
   }
+  #contact-icons{
+    left: 180px;
+  }
 }
 
 @media all and (max-width: 640px) {
 
   #resume-click {
     margin-left: 220px;
+  }
+  #contact-icons{
+    left: 170px;
   }
 }
 
@@ -592,6 +709,17 @@ li {
   #resume-click {
     margin-left: 200px;
   }
+  #contact-icons{
+    left: 165px;
+  }
+}
+
+@media all and (max-width: 600px) {
+
+  #contact-icons{
+    left: 150px;
+  }
+
 }
 
 
@@ -607,6 +735,11 @@ li {
   nav {
     margin-left: 80px;
   }
+
+  #contact-icons{
+    left: 140px;
+  }
+
 }
 
 @media all and (max-width: 550px) {
@@ -614,11 +747,50 @@ li {
   #resume-click {
     margin-left: 190px;
   }
+  #contact-icons{
+    left: 130px;
+  }
+}
+
+@media all and (max-width: 540px) {
+  #contact-icons{
+    left: 120px;
+  }
+}
+
+@media all and (max-width: 520px) {
+  #contact-icons{
+    left: 110px;
+  }
+}
+
+@media all and (max-width: 500px) {
+  #contact-icons{
+    left: 100px;
+  }
 }
 
 @media all and (max-width: 470px) {
   #profile-icon {
     margin-left: 640px;
+  }
+
+  #contact-icons{
+    left: 80px;
+  }
+}
+
+@media all and (max-width: 440px) {
+
+  #contact-icons{
+    left: 70px;
+  }
+}
+
+@media all and (max-width: 420px) {
+
+  #contact-icons{
+    left: 60px;
   }
 }
 
@@ -626,9 +798,12 @@ li {
   #profile-icon {
     margin-left: 615px;
   }
+
+  #contact-icons{
+    left: 40px;
+  }
+
 }
-
-
 
 @media all and (max-width: 1232px) {
   #container-top {
