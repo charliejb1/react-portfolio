@@ -1090,11 +1090,21 @@ li {
     margin-left: 40px;
   }
 
+  #my-project-1{
+    width: 400px;
+    margin-left: 20px;
+  }
+
+  #my-project-2{
+    width: 400px;
+    margin-left: 20px;
+  }
+
   #my-project-1-header {
-    margin-left: 17px
+    margin-left: 0px
   }
   #my-project-2-header {
-    margin-left: 17px
+    margin-left: 0px
   }
 
  #Project-1{
@@ -1141,24 +1151,12 @@ li {
     margin-left: 170px;
   }
 
-}
-
-@media all and (max-width: 510px) {
-
-  #my-project-1-header {
-    margin-left: 5px
-  }
-  #my-project-2-header {
-    margin-left: 5px
-  }
-
   @media all and (max-width: 510px) {
 
     #resume-click {
       margin-left: 150px;
     }
   }  
-
 }
 
 @media all and (max-width: 482px) {

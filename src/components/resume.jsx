@@ -15,7 +15,6 @@ function Resume() {
 
       <div>
         <a id="resume-click" href={Pdf}>Click for PDF</a>
-
         <div id="resume">
           <h3 id="summary-header">Summary</h3>
           <p id="summary-text">Aspiring entry-level software developer with a passion to enhance my foundational skillset of full-stack development and learning value-driven solutions for client needs. I am a recent graduate of the Northwestern Full Stack Software Development Bootcamp with previous work experience in private investigations, marketing, and sales. I am currently seeking junior positions in both front-end and back-end development.</p>

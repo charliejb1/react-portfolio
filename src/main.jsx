@@ -10,7 +10,7 @@ import Resume from './components/resume.jsx';
 import Error from './components/errorpage.jsx'
 
 
-
+// routes to display each component
 const router = createBrowserRouter([
   {
     path: '/',

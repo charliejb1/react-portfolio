@@ -36,13 +36,10 @@ function Projects() {
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea quam expedita sunt nobis odio a sequi quod, repudiandae veritatis natus beatae tenetur quis. Molestiae provident ullam rerum optio! At, mollitia.
           </p>
         </div>
-
-
       </section>
 
-
+      {/* Section for bootcamp projects */}
       <h2 id="bootcamp-projects">Bootcamp Projects</h2>
-
       <section id="container">
 
         <div id="Project-1">
