@@ -227,6 +227,37 @@ h4 {
   text-align: left;
 }
 
+#education {
+  text-align: left;
+  font-family: electrolize;
+  margin-left: 0px;
+  background-color: transparent;
+  font-size: x-large;
+}
+
+#university {
+  font-size: large;
+}
+
+#education-list {
+  text-align: left;
+  font-family: electrolize;
+
+}
+
+#skills{
+  text-align: left;
+  font-family: electrolize;
+  margin-left: 0px;
+  background-color: transparent;
+  font-size: x-large;
+}
+
+#skills-list{
+  text-align: left;
+  font-family: electrolize;
+}
+
 #work-experience {
   text-align: left;
   font-family: electrolize;
@@ -253,23 +284,6 @@ h4 {
   font-family: electrolize;
 }
 
-#education {
-  text-align: left;
-  font-family: electrolize;
-  margin-left: 0px;
-  background-color: transparent;
-  font-size: x-large;
-}
-
-#university {
-  font-size: large;
-}
-
-#education-list {
-  text-align: left;
-  font-family: electrolize;
-
-}
 
 #certifications {
   text-align: left;
