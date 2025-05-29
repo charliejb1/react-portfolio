@@ -1,7 +1,7 @@
 ## Title: 
  
 react-portfolio
-  
+
  ## Description: 
 
 This is my portfolio project to demostrate all of the projects I would like to show employers. In this project, I used multiple component files as different pages of my online portfolio. Each page (such as projects) is imported to main.jsx to ultimately be dispalyed on the webpage. The app.jsx file also defines routes for each page to be called upon. This file also acts as main header to have other pages dispalyed below it. The portfolio contains a pojects, aboutme, contact, and resume page.
@@ -36,6 +36,10 @@ For making resume a clickable pdf: https://stackoverflow.com/questions/48572896/
 For making "resume-click" moveable on screen (display block): https://stackoverflow.com/questions/16952136/width-and-height-not-working-on-a-tags
 
 For background color of resume headers to be transparent: https://stackoverflow.com/questions/8739665/is-background-colornone-valid-css
+
+Background image of "Capture a Feeling": https://www.vectorstock.com/royalty-free-vectors/floating-musical-notes-vectors
+
+Site for background image of "Perform Together": https://unsplash.com/s/photos/concert
 
 
  ## Questions?

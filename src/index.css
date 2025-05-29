@@ -95,7 +95,7 @@ nav ul li a {
   border: solid 2px black;
   background-color: white;
   border-radius: 20px;
-  background-image: url(whitepaper.jpg);
+  background-image: url(music.jpg);
   background-size: cover;
   width: 500px;
   margin-bottom: 20px;
@@ -194,6 +194,13 @@ img {
 }
 
 #perform-p {
+  color: black;
+  background-color: rgb(248, 248, 248);
+  border-radius: 10px;
+  font-family: electrolize;
+}
+
+#capture-p {
   color: black;
   background-color: rgb(248, 248, 248);
   border-radius: 10px;

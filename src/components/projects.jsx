@@ -24,16 +24,16 @@ function Projects() {
         </div>
 
         <div id="my-project-2">
-          <h3 id="my-project-2-header">Project 2</h3>
+          <h3 id="my-project-2-header">Capture a Feeling (In development)</h3>
 
-          <a href="https://charliejb1.github.io/SemanticHTMLChallenge1/">
+          <a href="https://github.com/charliejb1/capture-a-feeling">
             <img
-              src="https://www.pngkey.com/png/detail/561-5618893_question-mark-transparent-button-clipart-computer-icons-circle.png"
+              src="https://images.stockcake.com/public/4/9/6/49665080-7008-4734-a323-4970e282dcbd_large/creative-light-bulb-stockcake.jpg"
               alt="none"
             />
           </a>
-          <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea quam expedita sunt nobis odio a sequi quod, repudiandae veritatis natus beatae tenetur quis. Molestiae provident ullam rerum optio! At, mollitia.
+          <p id="capture-p">
+            Application for musicians to input and save their fleeting musical ideas when they pop into their minds.
           </p>
         </div>
       </section>
